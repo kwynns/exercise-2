@@ -1,4 +1,4 @@
-var TriangleClassifier = function() {
+var TriangleClassifier = function(a,b,c) {
 
     this.classify = function(a, b, c) {
         //check if can be a triangle
